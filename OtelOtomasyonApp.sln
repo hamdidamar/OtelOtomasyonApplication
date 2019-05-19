@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtelOtomasyonApp.DAL", "OtelOtomasyonApp.DAL\OtelOtomasyonApp.DAL.csproj", "{9B96E115-4392-412C-8A46-05070830CBB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtelOtomasyonApp.Entity", "OtelOtomasyonApp.Entity\OtelOtomasyonApp.Entity.csproj", "{230A5A59-1639-4726-9C29-1C2E5DF80847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtelOtomasyonApp.BLL", "OtelOtomasyonAppBLL\OtelOtomasyonApp.BLL.csproj", "{2835B7B5-EEB2-4D2D-90E1-605DC8B66559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtelOtomasyonApp.UI.WinForm", "OtelOtomasyonApp.UI.WinForm\OtelOtomasyonApp.UI.WinForm.csproj", "{A4B76F72-8CB6-4FD6-B6A3-D86D8A8B83A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B96E115-4392-412C-8A46-05070830CBB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B96E115-4392-412C-8A46-05070830CBB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B96E115-4392-412C-8A46-05070830CBB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B96E115-4392-412C-8A46-05070830CBB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230A5A59-1639-4726-9C29-1C2E5DF80847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230A5A59-1639-4726-9C29-1C2E5DF80847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230A5A59-1639-4726-9C29-1C2E5DF80847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230A5A59-1639-4726-9C29-1C2E5DF80847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2835B7B5-EEB2-4D2D-90E1-605DC8B66559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2835B7B5-EEB2-4D2D-90E1-605DC8B66559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2835B7B5-EEB2-4D2D-90E1-605DC8B66559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2835B7B5-EEB2-4D2D-90E1-605DC8B66559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B76F72-8CB6-4FD6-B6A3-D86D8A8B83A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B76F72-8CB6-4FD6-B6A3-D86D8A8B83A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B76F72-8CB6-4FD6-B6A3-D86D8A8B83A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B76F72-8CB6-4FD6-B6A3-D86D8A8B83A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\OtelOtomasyonApp.DAL\OtelOtomasyonApp.DAL\bin\Debug\OtelOtomasyonApp.DAL.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\OtelOtomasyonApp.DAL\OtelOtomasyonApp.DAL\bin\Debug\OtelOtomasyonApp.DAL.pdb
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\OtelOtomasyonApp.DAL\OtelOtomasyonApp.DAL\bin\Debug\OtelOtomasyonApp.Entity.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\OtelOtomasyonApp.DAL\OtelOtomasyonApp.DAL\bin\Debug\OtelOtomasyonApp.Entity.pdb
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\OtelOtomasyonApp.DAL\OtelOtomasyonApp.DAL\obj\Debug\OtelOtomasyonApp.DAL.csprojResolveAssemblyReference.cache
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\OtelOtomasyonApp.DAL\OtelOtomasyonApp.DAL\obj\Debug\OtelOtomasyonApp.DAL.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\OtelOtomasyonApp.DAL\OtelOtomasyonApp.DAL\obj\Debug\OtelOtomasyonApp.DAL.pdb
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonApp.DAL\obj\Debug\OtelOtomasyonApp.DAL.csprojResolveAssemblyReference.cache
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonApp.DAL\obj\Debug\OtelOtomasyonApp.DAL.dll
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonApp.DAL\obj\Debug\OtelOtomasyonApp.DAL.pdb
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonApp.DAL\bin\Debug\OtelOtomasyonApp.DAL.dll
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonApp.DAL\bin\Debug\OtelOtomasyonApp.DAL.pdb
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonApp.DAL\bin\Debug\OtelOtomasyonApp.Entity.dll
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonApp.DAL\bin\Debug\OtelOtomasyonApp.Entity.pdb
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonApp.DAL\obj\Debug\OtelOtomasyonApp.DAL.frm_MusteriOtelBilgileri.resources
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonApp.DAL\obj\Debug\OtelOtomasyonApp.DAL.csproj.GenerateResource.Cache

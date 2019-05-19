@@ -1,0 +1,10 @@
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\OtelOtomasyonApp.DAL\OtelOtomasyonApp.Entity\bin\Debug\OtelOtomasyonApp.Entity.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\OtelOtomasyonApp.DAL\OtelOtomasyonApp.Entity\bin\Debug\OtelOtomasyonApp.Entity.pdb
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\OtelOtomasyonApp.DAL\OtelOtomasyonApp.Entity\obj\Debug\OtelOtomasyonApp.Entity.csprojResolveAssemblyReference.cache
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\OtelOtomasyonApp.DAL\OtelOtomasyonApp.Entity\obj\Debug\OtelOtomasyonApp.Entity.dll
+D:\Hamdi\Yedekler\Kişisel\Okul\0Dersler\2.Sınıf\2 Yazılım Yapımı\OtelOtomasyonApp.DAL\OtelOtomasyonApp.Entity\obj\Debug\OtelOtomasyonApp.Entity.pdb
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonApp.Entity\bin\Debug\OtelOtomasyonApp.Entity.dll
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonApp.Entity\bin\Debug\OtelOtomasyonApp.Entity.pdb
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonApp.Entity\obj\Debug\OtelOtomasyonApp.Entity.csprojResolveAssemblyReference.cache
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonApp.Entity\obj\Debug\OtelOtomasyonApp.Entity.dll
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonApp.Entity\obj\Debug\OtelOtomasyonApp.Entity.pdb

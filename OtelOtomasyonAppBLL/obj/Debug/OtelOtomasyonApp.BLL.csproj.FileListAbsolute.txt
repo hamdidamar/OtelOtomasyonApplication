@@ -1,0 +1,9 @@
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonAppBLL\obj\Debug\OtelOtomasyonApp.BLL.csprojResolveAssemblyReference.cache
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonAppBLL\bin\Debug\OtelOtomasyonAppBLL.dll
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonAppBLL\bin\Debug\OtelOtomasyonAppBLL.pdb
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonAppBLL\bin\Debug\OtelOtomasyonApp.DAL.dll
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonAppBLL\bin\Debug\OtelOtomasyonApp.Entity.dll
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonAppBLL\bin\Debug\OtelOtomasyonApp.DAL.pdb
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonAppBLL\bin\Debug\OtelOtomasyonApp.Entity.pdb
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonAppBLL\obj\Debug\OtelOtomasyonAppBLL.dll
+C:\Users\hmdmr\OneDrive\Masaüstü\OtelOtomasyonApp\OtelOtomasyonAppBLL\obj\Debug\OtelOtomasyonAppBLL.pdb

@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A4B76F72-8CB6-4FD6-B6A3-D86D8A8B83A7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OtelOtomasyonApp.UI.WinForm</RootNamespace>
+    <AssemblyName>OtelOtomasyonApp.UI.WinForm</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v18.1, Version=18.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_GirisEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_GirisEkrani.Designer.cs">
+      <DependentUpon>frm_GirisEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_MusteriOtelBilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_MusteriOtelBilgileri.Designer.cs">
+      <DependentUpon>frm_MusteriOtelBilgileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_MüsteriGenel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_MüsteriGenel.Designer.cs">
+      <DependentUpon>frm_MüsteriGenel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_OtelIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_OtelIslemleri.Designer.cs">
+      <DependentUpon>frm_OtelIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_OtelListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_OtelListele.Designer.cs">
+      <DependentUpon>frm_OtelListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_PersonelIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_PersonelIslemleri.Designer.cs">
+      <DependentUpon>frm_PersonelIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_PersonelListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_PersonelListele.Designer.cs">
+      <DependentUpon>frm_PersonelListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_YoneticiGenel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_YoneticiGenel.Designer.cs">
+      <DependentUpon>frm_YoneticiGenel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_GirisEkrani.resx">
+      <DependentUpon>frm_GirisEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_MusteriOtelBilgileri.resx">
+      <DependentUpon>frm_MusteriOtelBilgileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_MüsteriGenel.resx">
+      <DependentUpon>frm_MüsteriGenel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_OtelIslemleri.resx">
+      <DependentUpon>frm_OtelIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_OtelListele.resx">
+      <DependentUpon>frm_OtelListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_PersonelIslemleri.resx">
+      <DependentUpon>frm_PersonelIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_PersonelListele.resx">
+      <DependentUpon>frm_PersonelListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_YoneticiGenel.resx">
+      <DependentUpon>frm_YoneticiGenel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\OtelOtomasyonApp.DAL\OtelOtomasyonApp.DAL.csproj">
+      <Project>{9b96e115-4392-412c-8a46-05070830cbb8}</Project>
+      <Name>OtelOtomasyonApp.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OtelOtomasyonApp.Entity\OtelOtomasyonApp.Entity.csproj">
+      <Project>{230a5a59-1639-4726-9c29-1c2e5df80847}</Project>
+      <Name>OtelOtomasyonApp.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OtelOtomasyonAppBLL\OtelOtomasyonApp.BLL.csproj">
+      <Project>{2835b7b5-eeb2-4d2d-90e1-605dc8b66559}</Project>
+      <Name>OtelOtomasyonApp.BLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
