@@ -4,4 +4,4 @@ Manisa Celal Bayar Üniversitesi Yazılım Mühendisliği 4.Dönem Veri Yapılar
 Yönetici ve müşteri taraflı olan otel uygulaması yapılmıştır.
 Yönetici; Otel ekleme,çıkarma,güncelleme işlemlerinin yanı sıra Personel ekleme,çıkarma,güncelleme işlemleri ve farklı parametrelere göre 
 personel listeleme işlemleri yapabiliyor
-Müşteri;Personel listeleme,Otel listeleme,Otel ve personele yorum ve puan verme gibi işlemleri yapabiliyor.
+Müşteri;Personel listeleme,otel listeleme,otel ve personele yorum ve puan verme gibi işlemleri yapabiliyor.
